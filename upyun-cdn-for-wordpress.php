@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 <?php
 /**
 **
-**
+**åŠ é€Ÿå¤§
 **
 **/
 
@@ -12,21 +11,6 @@ define('FocusCDNHost','http://veryer.cn');//wordpressç½‘ç«™ç½‘å€
 define('FocusCDNRemote','http://cdn1.veryer.cn');//cdnåŸŸå
 define('FocusCDNIncludes','wp-content/uploads,/wp-content/plugins,wp-content/themes/xiu/images,wp-includes');//è®¾ç½®åŠ é€Ÿç›®å½•
 define('FocusCDNExcludes','.php|.xml|.html|.po|.mo|.pot|.xsl|.txt|.htm|.gitignore|.md|.eot|.svg|.ttf|.woff');//è®¾ç½®æ–‡ä»¶ç™½åå•
-=======
-<?php 
-/**
-**	·Ç²å¼þÊ¹ÓÃÓÖÅÄÔÆupyun¾²Ì¬CDN¼ÓËÙwordpressÍøÕ¾
-**	µØÖ·£ºhttp://zycao.com/upyun-cdn.html
-**
-**	Çë¸´ÖÆÒÔÏÂ´úÂëµ½ÄãµÄÖ÷Ìâfunctions.phpÖÐÊ¹ÓÃ
-**/
-
-//cnd ¼ÓËÙ µ½upyun
-define('FocusCDNHost','http://veryer.cn');//wordpressÍøÕ¾ÍøÖ·
-define('FocusCDNRemote','http://cdn1.veryer.cn');//cdnÓòÃû
-define('FocusCDNIncludes','wp-content/uploads,/wp-content/plugins,wp-content/themes/xiu/images,wp-includes');//ÉèÖÃ¼ÓËÙÄ¿Â¼
-define('FocusCDNExcludes','.php|.xml|.html|.po|.mo|.pot|.xsl|.txt|.htm|.gitignore|.md|.eot|.svg|.ttf|.woff');//ÉèÖÃÎÄ¼þ°×Ãûµ¥
->>>>>>> b6434c44b5ca469d2b09194b84e2d76ae782c445
 define('FocusCDNRelative','');//Check this if you want to have links like <wp-content/abc.png> rewritten - i.e. without your blog's domain as prefix.
   
 function do_cdnrewrite_ob_start() {
