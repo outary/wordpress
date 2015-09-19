@@ -2,7 +2,8 @@
 /**
 **	非插件使用又拍云upyun静态CDN加速wordpress网站
 **	地址：http://zycao.com/upyun-cdn.html
-** 
+** 	自由草：http://zycao.com
+**		
 **	请复制以下代码到主题funcitons.php中，并修改自己的网址及cdn域名
 **/
 
