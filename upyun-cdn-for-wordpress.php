@@ -3,7 +3,7 @@
 **	非插件使用又拍云upyun静态CDN加速wordpress网站
 **	地址：http://zycao.com/upyun-cdn.html
 **
-**	请复制以下代码使用
+**	请复制以下代码到你的主题functions.php中使用
 **/
 
 //cnd 加速 到upyun
