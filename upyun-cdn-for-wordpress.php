@@ -2,6 +2,7 @@
 /**
 **	非插件使用又拍云upyun静态CDN加速wordpress网站
 **	地址：http://zycao.com/upyun-cdn.html
+**  
 **  代码作者：Build by kn007
 **  原代码链接：https://kn007.net/topics/cdn-share-my-hook-function/
 **		
