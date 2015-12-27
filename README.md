@@ -6,3 +6,4 @@
 
 提供相关wordpress 技术
 
+此代码由kn007提供，源地址：https://kn007.net/topics/cdn-share-my-hook-function/
