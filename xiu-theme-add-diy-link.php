@@ -1,7 +1,7 @@
 <?php
 /**
 **	xiu主题“直达链接”修改为自定义名称
-**	地址：http://zycao.com/xiu-theme-add-link.html	
+**	地址：http://zycao.com/xiu-theme-add-diy-link.html	
 **  按照下面提示进行修改
 **/
 
